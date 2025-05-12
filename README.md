@@ -10,6 +10,11 @@ Subscribe for base Draft Caddy access at [Endgame Syndicate](https://endgamesynd
 
 Subscribe for access to MLB Projections at [RunTheSims](https://runthesims.com/subscribe)
 
+## Requirements
+
+- Active Draft Caddy [Endgame Syndicate](https://endgamesyndicate.com/draft-caddy/) or MLB Draft Caddy [Run The Sims](https://runtheims.com/subscribe) subscription
+- Google Chrome or Microsoft Edge v135.0+ or Mozilla Firefox 135.0+
+
 ## Installation Instructions
 
 ### Mozilla Firefox
