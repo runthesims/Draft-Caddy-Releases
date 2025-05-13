@@ -4,22 +4,30 @@
 
 Draft Caddy is a browser extension designed to enhance your drafting experience on fantasy platforms like DraftKings, Underdog, and Drafters. It offers real-time data overlays, player exposure insights, and customizable settings to give you a competitive edge.
 
+## Main Features
+
+- Configurable NFL Best Ball settings for Underdog Fantasy, DraftKings, and Drafters that guide the user during drafts.
+- Combo player ownership projections for best ball mania.
+- Supports custom ADP inputs.
+- Shows player matchup data and personal exposure percentages during live drafts.
+- Embedded MLB DFS projections powered by Run the Sims.
+
 ## Subscribing for Draft Caddy Access
 
-Subscribe for base Draft Caddy access at [Endgame Syndicate](https://endgamesyndicate.com/draft-caddy/)
+Full Draft Caddy access, including NFL bestball and MLB DFS, at [Endgame Syndicate](https://endgamesyndicate.com/draft-caddy/)
 
-Subscribe for access to MLB Projections at [RunTheSims](https://runthesims.com/subscribe)
+Subscribe for access to DraftKings and Underdog MLB Projections at [RunTheSims](https://runthesims.com/subscribe)
 
 ## Requirements
 
-- Active Draft Caddy [Endgame Syndicate](https://endgamesyndicate.com/draft-caddy/) or MLB Draft Caddy [Run The Sims](https://runtheims.com/subscribe) subscription
+- Active Draft Caddy [Endgame Syndicate](https://endgamesyndicate.com/draft-caddy/) or MLB Draft Caddy [Run The Sims](https://runthesims.com/subscribe) subscription
 - Google Chrome or Microsoft Edge v135.0+ or Mozilla Firefox 135.0+
 
 ## Installation Instructions
 
 ### Mozilla Firefox
 
-1. Download the installer from the [Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/draft-caddy/).
+1. Open Firefox and click here [Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/draft-caddy/).
 2. Navigate to the Firefox extensions page.
 3. Choose **"Install Add-on From File"** and select the downloaded installer.
 
