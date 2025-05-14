@@ -7,18 +7,20 @@ Draft Caddy is a browser extension designed to enhance your drafting experience 
 ## Main Features
 
 - Configurable NFL Best Ball settings for Underdog Fantasy, DraftKings, and Drafters that guide the user during drafts.
-- Combo player ownership projections for best ball mania.
+- Combo player ownership projections for Best Ball Mania.
 - Supports custom ADP inputs.
 - Shows player matchup data and personal exposure percentages during live drafts.
-- Embedded MLB DFS projections powered by Run the Sims.
+- Embedded MLB DFS projections powered by [Run The Sims](https://runthesims.com/subscribe).
 
 ## Subscribing for Draft Caddy Access
 
-Full Draft Caddy access, including NFL bestball and MLB DFS, at [Endgame Syndicate](https://endgamesyndicate.com/draft-caddy/)
+- Full Draft Caddy access, including NFL bestball and MLB DFS, at [Endgame Syndicate](https://endgamesyndicate.com/draft-caddy/)
 
-Subscribe for access to DraftKings and Underdog MLB Projections at [RunTheSims](https://runthesims.com/subscribe)
+- Subscribe for access to DraftKings and Underdog MLB Projections at [Run The Sims](https://runthesims.com/subscribe)
 
 ## Requirements
+
+![Static Badge](https://img.shields.io/badge/Google_Chrome-v135.0%2B-darkgreen) ![Static Badge](https://img.shields.io/badge/Microsoft_Edge-v135.0%2B-darkgreen) ![Static Badge](https://img.shields.io/badge/Mozilla_Firefox-v135.0%2B-darkgreen)
 
 - Active Draft Caddy [Endgame Syndicate](https://endgamesyndicate.com/draft-caddy/) or MLB Draft Caddy [Run The Sims](https://runthesims.com/subscribe) subscription
 - Google Chrome or Microsoft Edge v135.0+ or Mozilla Firefox 135.0+
@@ -27,11 +29,28 @@ Subscribe for access to DraftKings and Underdog MLB Projections at [RunTheSims](
 
 ### Mozilla Firefox
 
-1. Open Firefox and click here [Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/draft-caddy/).
-2. Navigate to the Firefox extensions page.
-3. Choose **"Install Add-on From File"** and select the downloaded installer.
+![Mozilla Add-on Version](https://img.shields.io/amo/v/draft-caddy) ![Mozilla Add-on Downloads](https://img.shields.io/amo/dw/draft-caddy) ![Mozilla Add-on Users](https://img.shields.io/amo/users/draft-caddy)
 
-![Firefox Install](images/FirefoxInstall.png)
+#### Firefox Automatic Install
+
+1. Open Firefox
+2. Go to the [Mozilla Add-ons Store Draft Caddy page](https://addons.mozilla.org/en-US/firefox/addon/draft-caddy/).
+3. Choose **Add to Firefox**
+4. Accept the permissions prompt
+
+![Firefox Extension](images/FirefoxExtension.png)
+
+#### Firefox Manual Install
+
+1. Open Firefox
+2. Download the extension ZIP file from the [latest release](https://github.com/runthesims/Draft-Caddy-Releases/releases)
+3. Open the Firefox Add-ons Manager
+    - Firefox > Hamburger Menu (top right) > Settings > Extensions & Themes (bottom left) > Extensions
+    - OR type `about:addons` directly into the address bar to go directly to the Add-ons Manager
+4. Click the **Gear** icon
+5. Choose **"Install Add-on From File"** and select the downloaded installer.
+
+![Firefox Manual Install](images/FirefoxManualInstall.png)
 
 ### Google Chrome or Microsoft Edge
 
@@ -48,9 +67,11 @@ Subscribe for access to DraftKings and Underdog MLB Projections at [RunTheSims](
 > [!WARNING]
 > If you're updating to the latest version, delete the old version and remove it from Chrome/Edge before installing the update.
 
-## MLB Draft Caddy
+## Usage Examples
 
-Embeds MLB projections into DraftKings draft pages (shown in red in below image).
+### MLB Draft Caddy
+
+Embeds MLB projections into DraftKings draft pages (shown in **red** in below image).
 
 ![MLB Draft Caddy](images/DraftKingsMLB.png)
 
