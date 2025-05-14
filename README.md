@@ -19,6 +19,7 @@ Draft Caddy is a browser extension designed to enhance your drafting experience 
 - Subscribe for access to DraftKings and Underdog MLB Projections at [Run The Sims](https://runthesims.com/subscribe)
 
 ## Requirements
+
 ![Static Badge](https://img.shields.io/badge/Google_Chrome-v135.0%2B-darkgreen) ![Static Badge](https://img.shields.io/badge/Microsoft_Edge-v135.0%2B-darkgreen) ![Static Badge](https://img.shields.io/badge/Mozilla_Firefox-v135.0%2B-darkgreen)
 
 - Active Draft Caddy [Endgame Syndicate](https://endgamesyndicate.com/draft-caddy/) or MLB Draft Caddy [Run The Sims](https://runthesims.com/subscribe) subscription
@@ -51,7 +52,6 @@ Draft Caddy is a browser extension designed to enhance your drafting experience 
 
 ![Firefox Manual Install](images/FirefoxManualInstall.png)
 
-
 ### Google Chrome or Microsoft Edge
 
 > [!NOTE]
@@ -67,9 +67,11 @@ Draft Caddy is a browser extension designed to enhance your drafting experience 
 > [!WARNING]
 > If you're updating to the latest version, delete the old version and remove it from Chrome/Edge before installing the update.
 
-## MLB Draft Caddy
+## Usage Examples
 
-Embeds MLB projections into DraftKings draft pages (shown in red in below image).
+### MLB Draft Caddy
+
+Embeds MLB projections into DraftKings draft pages (shown in **red** in below image).
 
 ![MLB Draft Caddy](images/DraftKingsMLB.png)
 
