@@ -7,18 +7,19 @@ Draft Caddy is a browser extension designed to enhance your drafting experience 
 ## Main Features
 
 - Configurable NFL Best Ball settings for Underdog Fantasy, DraftKings, and Drafters that guide the user during drafts.
-- Combo player ownership projections for best ball mania.
+- Combo player ownership projections for Best Ball Mania.
 - Supports custom ADP inputs.
 - Shows player matchup data and personal exposure percentages during live drafts.
-- Embedded MLB DFS projections powered by Run the Sims.
+- Embedded MLB DFS projections powered by [Run The Sims](https://runthesims.com/subscribe).
 
 ## Subscribing for Draft Caddy Access
 
-Full Draft Caddy access, including NFL bestball and MLB DFS, at [Endgame Syndicate](https://endgamesyndicate.com/draft-caddy/)
+- Full Draft Caddy access, including NFL bestball and MLB DFS, at [Endgame Syndicate](https://endgamesyndicate.com/draft-caddy/)
 
-Subscribe for access to DraftKings and Underdog MLB Projections at [RunTheSims](https://runthesims.com/subscribe)
+- Subscribe for access to DraftKings and Underdog MLB Projections at [Run The Sims](https://runthesims.com/subscribe)
 
 ## Requirements
+![Static Badge](https://img.shields.io/badge/Google_Chrome-v135.0%2B-darkgreen) ![Static Badge](https://img.shields.io/badge/Microsoft_Edge-v135.0%2B-darkgreen) ![Static Badge](https://img.shields.io/badge/Mozilla_Firefox-v135.0%2B-darkgreen)
 
 - Active Draft Caddy [Endgame Syndicate](https://endgamesyndicate.com/draft-caddy/) or MLB Draft Caddy [Run The Sims](https://runthesims.com/subscribe) subscription
 - Google Chrome or Microsoft Edge v135.0+ or Mozilla Firefox 135.0+
