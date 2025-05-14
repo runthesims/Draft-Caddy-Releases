@@ -27,11 +27,29 @@ Subscribe for access to DraftKings and Underdog MLB Projections at [RunTheSims](
 
 ### Mozilla Firefox
 
-1. Open Firefox and click here [Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/draft-caddy/).
-2. Navigate to the Firefox extensions page.
-3. Choose **"Install Add-on From File"** and select the downloaded installer.
+![Mozilla Add-on Version](https://img.shields.io/amo/v/draft-caddy) ![Mozilla Add-on Downloads](https://img.shields.io/amo/dw/draft-caddy) ![Mozilla Add-on Users](https://img.shields.io/amo/users/draft-caddy)
 
-![Firefox Install](images/FirefoxInstall.png)
+#### Firefox Automatic Install
+
+1. Open Firefox
+2. Go to the [Mozilla Add-ons Store Draft Caddy page](https://addons.mozilla.org/en-US/firefox/addon/draft-caddy/).
+3. Choose **Add to Firefox**
+4. Accept the permissions prompt
+
+![Firefox Extension](images/FirefoxExtension.png)
+
+#### Firefox Manual Install
+
+1. Open Firefox
+2. Download the extension ZIP file from the [latest release](https://github.com/runthesims/Draft-Caddy-Releases/releases)
+3. Open the Firefox Add-ons Manager
+    - Firefox > Hamburger Menu (top right) > Settings > Extensions & Themes (bottom left) > Extensions
+    - OR type `about:addons` directly into the address bar to go directly to the Add-ons Manager
+4. Click the **Gear** icon
+5. Choose **"Install Add-on From File"** and select the downloaded installer.
+
+![Firefox Manual Install](images/FirefoxManualInstall.png)
+
 
 ### Google Chrome or Microsoft Edge
 
