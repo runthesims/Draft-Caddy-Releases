@@ -27,6 +27,29 @@ Draft Caddy is a browser extension designed to enhance your drafting experience 
 
 ## Installation Instructions
 
+### Google Chrome
+
+![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/feojhbpifphmnfcikfkejjjcbgjpacnc) ![Chrome Web Store Last Updated](https://img.shields.io/chrome-web-store/last-updated/feojhbpifphmnfcikfkejjjcbgjpacnc) ![Chrome Web Store Size](https://img.shields.io/chrome-web-store/size/feojhbpifphmnfcikfkejjjcbgjpacnc)
+
+### Chrome or Edge Automatic Install
+
+1. Open Chrome or Edge
+2. Go to the [Chrome Web Store Draft Caddy page](https://chromewebstore.google.com/detail/draft-caddy/feojhbpifphmnfcikfkejjjcbgjpacnc)
+3. Click the "Get" button
+4. Accept the permissions prompt
+
+### Chrome or Edge Manual Install
+
+1. Download the extension ZIP file from the [latest release](https://github.com/runthesims/Draft-Caddy-Releases/releases).
+2. Unzip the file to a new folder on your computer.
+3. Open Chrome/Edge and click on the three dots in the top-right corner to access the menu.
+4. Navigate to **Extensions** > **Manage Extensions**
+5. Enable **Developer mode** using the toggle in the top-right corner (Chrome) or left sidebar (Edge).
+6. Click on **"Load unpacked"** and select the folder where you unzipped the extension. Ensure that the folder contains the `manifest.json` file.
+
+> [!WARNING]
+> If you're updating to the latest version, delete the old version and remove it from Chrome/Edge before installing the update.
+
 ### Mozilla Firefox
 
 ![Mozilla Add-on Version](https://img.shields.io/amo/v/draft-caddy) ![Mozilla Add-on Downloads](https://img.shields.io/amo/dw/draft-caddy) ![Mozilla Add-on Users](https://img.shields.io/amo/users/draft-caddy)
@@ -51,21 +74,6 @@ Draft Caddy is a browser extension designed to enhance your drafting experience 
 5. Choose **"Install Add-on From File"** and select the downloaded installer.
 
 ![Firefox Manual Install](images/FirefoxManualInstall.png)
-
-### Google Chrome or Microsoft Edge
-
-> [!NOTE]
-> Draft Caddy is not currently available in the Chrome Web Store. Follow these steps to install it manually:
-
-1. Download the extension ZIP file from the [latest release](https://github.com/runthesims/Draft-Caddy-Releases/releases).
-2. Unzip the file to a new folder on your computer.
-3. Open Chrome/Edge and click on the three dots in the top-right corner to access the menu.
-4. Navigate to **Extensions** > **Manage Extensions**
-5. Enable **Developer mode** using the toggle in the top-right corner (Chrome) or left sidebar (Edge).
-6. Click on **"Load unpacked"** and select the folder where you unzipped the extension. Ensure that the folder contains the `manifest.json` file.
-
-> [!WARNING]
-> If you're updating to the latest version, delete the old version and remove it from Chrome/Edge before installing the update.
 
 ## Usage Examples
 
